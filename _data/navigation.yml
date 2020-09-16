@@ -1,6 +1,9 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
+- title: About
+  url: /about/
+  excerpt: what we are all about
   image:
+  
+
+
