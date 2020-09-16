@@ -4,7 +4,7 @@ permalink: /
 title: 
 ---
 
-   <div class="page-lead" style="background-image:url(https://mmistakes.github.io/jekyll-theme-skinny-bones/images/wood-texture-1600x800.jpg)">
+   <div class="page-lead" style="background-image:url(https://cfars.github.io/images/montage.png)">
       <div class="wrap page-lead-content">
         <h1>Skinny Bones</h1>
         <h2>Jump start your Jekyll site with something thin and light.</h2>
