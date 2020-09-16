@@ -36,7 +36,8 @@ owner:
   avatar: bio-photo.jpg # 160x160 px image for author byline
   disqus-shortname:
 
-include: ["_pages"]
+include:
+  - .htaccess
 
 exclude:
   - "*.less"
