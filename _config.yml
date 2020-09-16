@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: "CFARS - Consortium for the Advancement of Remote Sensing"
-description: "Website for wind energy group"
+title: "CFARS"
+description: "Consortium for the Advancement of Remote Sensing"
 logo: cfars-logo.png # 120x120 px default image used for Twitter summary card
 teaser: teaser.png # 400x250 px default teaser image used in image archive grid
 locale: en
