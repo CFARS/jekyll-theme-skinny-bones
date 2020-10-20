@@ -6,10 +6,13 @@
   image:
 - title: Vision, Mission & Values
   url: /vision/
-  excerpt: our vision
+  excerpt:
   image:
 - title: 2021 Horizon 
   url: /2021/
-  excerpt: 2021 Horizon
+  excerpt: 
   image:
-
+- title: Working Groups
+  url: /working_groups/
+  excerpt: 
+  image:
