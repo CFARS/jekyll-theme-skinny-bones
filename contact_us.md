@@ -5,7 +5,7 @@ permalink: /contact_us/
 ## Philippe Coulombe-Pontbriand
 ## Energy Resource Director, Americas
 
-![Philippe Coulombe-Pontbriand](philippe-p.png "Philippe Coulombe-Pontbriand")
+![Philippe Coulombe-Pontbriand](https://cfars.github.io/images/philippe-p.png "Philippe Coulombe-Pontbriand")
 
 Philippe is one of the creators of the CFARS Group, he manages and organizes all meetings and content, as well as the global outreach initiative. 
 
