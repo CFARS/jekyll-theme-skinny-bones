@@ -11,4 +11,4 @@ Philippe is one of the creators of the CFARS Group, he manages and organizes all
 
 For any inquiries on how to join, or joining the Consortium for Advancement of Remote Sensing please contact Philippe. 
 
-[Philippe_Pontbriand@transalta.com](Philippe_Pontbriand@transalta.com)
+[Philippe_Pontbriand@transalta.com](mailto:Philippe_Pontbriand@transalta.com)
