@@ -1,13 +1,12 @@
 # Site navigation links
 
-- title: About
-  url: /about/
-  excerpt: what we are all about
-  image:
 - title: Overview
   url: /overview/
   excerpt: here is our overview
   image:
-  
+- title: Vision, Mission & Values
+  url: /vision/
+  excerpt: our vision
+  image:
 
 
