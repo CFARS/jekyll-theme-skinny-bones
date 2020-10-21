@@ -12,7 +12,7 @@ title:
 </div><!-- /.page-lead -->
 
 <div class="tiles">
-{% for post in site.posts.meetings %}
+{% for post in site.posts.categories.meetings %}
 	{% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
