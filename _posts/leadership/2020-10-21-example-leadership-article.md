@@ -1,13 +1,5 @@
 ---
 layout: post
-title: Meeting 1
+title: Example Leadership Article
 ---
-Inaugural CFARS meeting
-
-* [20180326 IEC -15 overview](20180326 IEC -15 overview)
-* [CFARS 2018_Meeting1_Barry Logue](CFARS 2018_Meeting1_Barry Logue)
-* [CFARS_What are the issues](CFARS_What are the issues)
-* [20180326 IEC -15 overview](20180326 IEC -15 overview)
-* [PJMC - CFARS - Introduction to IEA Wind Task 32 - (A1)](PJMC - CFARS - Introduction to IEA Wind Task 32 - (A1))
-* [PJMC - CFARS Presentation - Peter Clive - (A1)](PJMC - CFARS Presentation - Peter Clive - (A1))
-* [RSD Correction -Final CFAR](RSD Correction -Final CFAR)
+This is an example
