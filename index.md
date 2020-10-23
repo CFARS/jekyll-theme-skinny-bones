@@ -7,7 +7,7 @@ title:
 <div class="page-lead" style="background-image:url(https://cfars.github.io/images/montage.png)">
   <div class="wrap page-lead-content">
 	<h1>#LiDAR<span style="color:#aaaaaa">Stands</span>Alone</h1>
-	<h2>Consortium for Advancement of Remote Sensing.</h2>
+	<h2><span style="color:#aaaaaa">C</span>onsortium <span style="color:#aaaaff">F</span>or the <span style="color:#aaaaaa">A</span>dvancement of <span style="color:#aaaaaa">R</span>emote <span style="color:#aaaaaa">S</span>ensing.</h2>
   </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->
 
