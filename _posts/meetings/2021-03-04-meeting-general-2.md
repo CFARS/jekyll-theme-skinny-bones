@@ -1,6 +1,6 @@
 ---
 layout: post
-title: General Meeting 2021 Roadmap _(upcoming)_
+title: General Meeting 2021 Roadmap (upcoming)
 categories: meetings
 ---
 Agenda

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Site Suitability Subgroup Update, Results, & Road-mapping _(upcoming)_
+title: Site Suitability Subgroup Update, Results, & Road-mapping (upcoming)
 categories: meetings
 ---
 Agenda
