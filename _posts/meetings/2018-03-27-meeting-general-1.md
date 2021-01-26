@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meeting 1
+title: CFARS Kick-off Meeting
 categories: meetings
 ---
 Inaugural CFARS meeting. Discussion about the reasons for creating CFARs with presentations from other related industry groups.

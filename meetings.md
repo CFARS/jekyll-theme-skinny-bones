@@ -3,7 +3,7 @@ layout: archive
 permalink: /meetings/
 ---
 
-Meeting archive - test
+Upcoming and Past CFARS Meetings
 
 <div class="tiles">
 {% for post in site.categories.meetings %}
