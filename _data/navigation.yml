@@ -1,26 +1,30 @@
 # Site navigation links
 
-- title: Overview
-  url: /overview/
-  excerpt: here is our overview
-  image:
-- title: Vision
-  url: /vision/
-  excerpt:
-  image:
-- title: 2021 Horizon 
-  url: /2021/
-  excerpt: 
+- title: About
+  url: /about/
+  excerpt: "CFARS Mission, values, history, and how to get involved"
   image:
 - title: Groups
-  url: /working_groups/
-  excerpt: 
+  url: /groups/
+  excerpt: "Science, Guidance, Sub-groups, and contact info"
+  image:
+- title: Landscape of RSD Use Cases
+  url: /landscape/
+  excerpt: "Best Practices and Standards for lidar and sodar in wind energy"
+  image:
+- title: Publications
+  url: /publications/
+  excerpt: "CFARS whitepapers, conference presentations, webinars, and more"
   image:
 - title: Meetings
   url: /meetings/
-  excerpt: 
+  excerpt: "Minutes and presentation content from CFARS meetings"
   image:
-- title: Contact
-  url: /contact_us/
-  excerpt: 
+- title: Survey
+  url: /survey/
+  excerpt: "Details and trends from CFARS Annual Survey"
+  image:
+- title: News
+  url: /news/
+  excerpt: "The latest on new Standards, Best Practices, and RSD trends"
   image:
