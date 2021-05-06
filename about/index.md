@@ -48,6 +48,13 @@ The purpose of the Consortium For the Advancement of Remote Sensing is to reduce
 - Recommend areas for improvements RSD method improvement to Science Working Groups
 - Amplify findings from Science Group via open-source documents and publications; drive consensus on new Best Practices 
 
+# Meetings
+
+<div class="tiles">
+{% for post in site.categories.meetings %}
+  {% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->
 
 # Contact
 ### Philippe Coulombe-Pontbriand (Transalta)

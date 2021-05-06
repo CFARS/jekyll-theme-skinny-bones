@@ -2,7 +2,7 @@
 layout: article
 title: "Power Performance - Onshore - Power Curves"
 modified:
-categories: articles
+categories: landscape
 excerpt: 
 tags: []
 image:

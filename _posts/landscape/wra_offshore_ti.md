@@ -2,7 +2,7 @@
 layout: article
 title: "Wind Resource Assessment - Offshore - Turbulence Intensity"
 modified:
-categories: articles
+categories: landscape
 excerpt: 
 tags: []
 image:

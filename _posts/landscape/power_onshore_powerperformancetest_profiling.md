@@ -2,7 +2,7 @@
 layout: article
 title: "Power Performance - Onshore - PPT"
 modified:
-categories: articles
+categories: landscape
 excerpt: "RSD best practices for Onshore EYA"
 tags: []
 image:
