@@ -9,7 +9,6 @@ image:
   feature:
   teaser: 
   thumb:
-date: 
 ---
 # This
 Some content here

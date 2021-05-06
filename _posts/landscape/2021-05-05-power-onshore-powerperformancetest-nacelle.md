@@ -9,6 +9,5 @@ image:
   feature:
   teaser:
   thumb:
-date: 
 ---
 
