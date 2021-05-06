@@ -11,6 +11,5 @@ image:
   thumb:
 date: 
 ---
-
 # This
 Some content here

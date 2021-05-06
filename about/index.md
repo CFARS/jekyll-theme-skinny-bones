@@ -56,6 +56,8 @@ The purpose of the Consortium For the Advancement of Remote Sensing is to reduce
 {% endfor %}
 </div><!-- /.tiles -->
 
+
+
 # Contact
 ### Philippe Coulombe-Pontbriand (Transalta)
 
@@ -63,6 +65,4 @@ The purpose of the Consortium For the Advancement of Remote Sensing is to reduce
 
 Philippe is one of the creators of CFARS. He manages and organizes all meetings and content, as well as the global outreach initiative. 
 
-For any inquiries on joining the Consortium for Advancement of Remote Sensing please contact Philippe. 
-
-[Philippe_Pontbriand@transalta.com](mailto:Philippe_Pontbriand@transalta.com)
+For any inquiries on joining the Consortium for Advancement of Remote Sensing please [contact Philippe](mailto:Philippe_Pontbriand@transalta.com)
