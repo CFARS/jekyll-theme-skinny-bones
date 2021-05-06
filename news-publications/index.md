@@ -14,7 +14,7 @@ permalink: /news-publications/
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## White Papers
 *CFARS Site Suitability Initiative: An Open Source Approach to Evaluate the Performance of Remote 2 Sensing Device (RSD) Turbulence Intensity Measurements & Accelerate 3 the Use of RSDs for Turbine Suitability Assessment*

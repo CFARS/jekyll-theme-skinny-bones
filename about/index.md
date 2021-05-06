@@ -55,7 +55,7 @@ The purpose of the Consortium For the Advancement of Remote Sensing is to reduce
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 # Contact
 ### Philippe Coulombe-Pontbriand (Transalta)
