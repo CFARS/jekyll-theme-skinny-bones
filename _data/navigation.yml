@@ -3,8 +3,12 @@
 - title: Landscape of RSD Use Cases
   url: /landscape/
   excerpt: "Best Practices and Standards for lidar and sodar in wind energy"
-- title: News + Publications
-  url: /news-publications/
+- title: News
+  url: /news/
+  excerpt: "Latest News from CFARS, RSDs, and other groups"
+  image:
+- title: Publications
+  url: /publications/
   excerpt: "CFARS whitepapers, conference presentations, webinars, and more"
   image:
 - title: About

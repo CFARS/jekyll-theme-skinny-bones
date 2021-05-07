@@ -1,8 +1,8 @@
 ---
 layout: article
-title: News + Publications
+title: Publications
 excerpt: "News, whitepapers, conference presentations, webinars, surveys, and more"
-permalink: /news-publications/
+permalink: /publications/
 ---
 
 {% include toc.html %}
