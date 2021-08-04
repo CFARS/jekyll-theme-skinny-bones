@@ -1,10 +1,7 @@
 ---
-layout: default
+layout: article
 permalink: /
-title: 
+title: Consortium for Advancing Remote Sensing
+image: !["test"](https://cfars.github.io/images/CFARS_Logo.png "test")
 ---
-
-<div class="page-lead" style="background-image:url(https://cfars.github.io/images/CFARS_Logo.png)">
-
-</div><!-- /.page-lead -->
-
+!["CFARS"](https://cfars.github.io/images/CFARS_Logo.png)
