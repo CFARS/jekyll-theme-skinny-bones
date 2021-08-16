@@ -1,10 +1,14 @@
-# Skinny Bones Jekyll Starter
+# Consortium for Advancing Remote Sensing
 
-Just a little something I'm using to jump start a site refresh. I like to think of it as a starter for building your own Jekyll site. I purposely keep the styling minimal and bare to make it easier to add your own flare and markup.
+This website is the landing page for all CFARS activities. 
 
-![screenshot of Skinny Bones](http://mmistakes.github.io/jekyll-theme-skinny-bones/images/skinny-bones-theme-feature.jpg)
+![CFARS](http://cfars.github.io/images/CFARS_MembershipLogos_Logo_RGB.jpg)
+
+
+If you would like to contribute content or learn more please contact [Andrew Black](andrew.hastingsblack@vaisala.com). We are a small, open team, and welcome newcomers. 
 
 ---
+The site is built on a fork of the [Skinny Bones](https://mmistakes.github.io/jekyll-theme-skinny-bones/) Jekyll template
 
 ## Notable Features
 
@@ -12,12 +16,4 @@ Just a little something I'm using to jump start a site refresh. I like to think 
 * Stylesheet built using Sass.
 * Data files for easier customization of the site navigation/footer and for supporting multiple authors.
 * Optional Disqus comments, table of contents, social sharing links, and Google AdSense ads.
-* And more.
 
-## More Jekyll Themes
-
-Check out my more popular Jekyll themes, available as Ruby gems and 100% GitHub Pages compatible.
-
-* [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes)
-* [So Simple](https://github.com/mmistakes/so-simple-theme)
-* [Basically Basic](https://github.com/mmistakes/jekyll-theme-basically-basic)
