@@ -1,14 +1,19 @@
 ---
 layout: article
-title: "Power Performance - Offshore - Nacelle-Mounted PPT"
+title: "Power Curves and PPT - Offshore"
 modified:
 categories: landscape
 excerpt: 
 tags: []
-image: 
+image:
   feature:
-  teaser: 
+  teaser:
   thumb:
 ---
-# This
-Some content here
+{% include toc.html %}
+### Description
+### Governing Standards
+### Acceptance Status
+### Timeline of Acceptance
+### Active Projects
+### Research + References

@@ -10,6 +10,10 @@ image:
   teaser:
   thumb:
 ---
-
-# This
-Some content here
+{% include toc.html %}
+### Description
+### Governing Standards
+### Acceptance Status
+### Timeline of Acceptance
+### Active Projects
+### Research + References

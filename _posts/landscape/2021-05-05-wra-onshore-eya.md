@@ -1,6 +1,6 @@
 ---
 layout: article
-title: "Power Performance - Onshore - PPT"
+title: "Wind Resource Assessment - Onshore - EYA"
 modified:
 categories: landscape
 excerpt: "RSD best practices for Onshore EYA"
