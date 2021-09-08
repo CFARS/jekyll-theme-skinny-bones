@@ -5,14 +5,10 @@
   url: /about/
   excerpt: "CFARS Mission, values, history, and how to get involved"
   image:
-  title: Proceedings
+- title: Proceedings
   url: /proceedings/
   excerpt: "CFARS General Meeting Proceedings and key conference presentations"
   image:
-  #title: Working Groups
-  #url: /working-groups/
-  #excerpt: "CFARS General Meeting Proceedings and key conference presentations"
-  #image:
 - title: Publications
   url: /publications/
   excerpt: "CFARS whitepapers, conference presentations, webinars, and more"
