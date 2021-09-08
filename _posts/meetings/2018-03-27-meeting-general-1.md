@@ -3,7 +3,6 @@ layout: post
 title: CFARS Meeting #1
 categories: meetings
 ---
-Inaugural CFARS meeting. Discussion about the reasons for creating CFARs with presentations from other related industry groups.
 
 * [CFARS 2018 Kick Off Meeting - Phillipe Pontbriand](https://cfars.github.io/proceedings/meeting-1/cfars-2018_meeting1_ppontbriand.pdf)
 * [CFARS 2018 Kick Off Meeting - Peter Clive](https://cfars.github.io/proceedings/meeting-1/pjmc-cfars-presentation-peter-clive-a1.pdf)
