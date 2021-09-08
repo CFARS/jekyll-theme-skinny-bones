@@ -9,6 +9,10 @@
   url: /proceedings/
   excerpt: "CFARS General Meeting Proceedings and key conference presentations"
   image:
+- title: Working Groups
+  url: /working-groups/
+  excerpt: "CFARS Working Groups"
+  image:
 - title: Publications
   url: /publications/
   excerpt: "CFARS whitepapers, conference presentations, webinars, and more"

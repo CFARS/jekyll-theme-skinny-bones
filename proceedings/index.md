@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Landscape of RSD Use Cases"
+title: "Proceedings"
 date: 
 modified:
 excerpt: 
@@ -8,11 +8,11 @@ tags: []
 image:
   feature:
   teaser:
-permalink: /landscape/
+permalink: /proceedings/
 ---
 
 <div class="tiles">
-{% for post in site.categories.landscape %}
+{% for post in site.categories.meetings %}
   {% include post-grid.html %}
 {% endfor %}
 </div><!-- /.tiles -->
