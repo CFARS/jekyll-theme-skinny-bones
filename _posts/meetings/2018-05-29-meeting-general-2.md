@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CFARS Meeting 02
+title: CFARS General Meeting 02
 categories: meetings
 ---
 
