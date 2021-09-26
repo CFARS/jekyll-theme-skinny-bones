@@ -5,7 +5,7 @@ categories: meetings
 ---
 
 ### Meeting Agenda
-#### _Presenters: Alexandra Arnsten (NRG), Sayantan Chattopadhyay (Vestas), Lise Lotte Bendixen (Vestas)_
+#### _Presenters: Alexandra St. Pé (RWE), Alexandra Arnsten (NRG), Sayantan Chattopadhyay (Vestas), Lise Lotte Bendixen (Vestas)_
 
 * New RSD TI Adjustment Method
 * Upcoming TACT Subgroup Analysis
