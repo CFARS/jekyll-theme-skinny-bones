@@ -8,7 +8,7 @@ permalink: /publications/
 {% include toc.html %}
 
 ## White Papers
-[CFARS Site Suitability Initiative: An Open Source Approach to Evaluate the Performance of Remote Sensing Device (RSD) Turbulence Intensity Measurements & Accelerate Industry Adoption of RSDs for Turbine Suitability Assessment](https://zenodo.org/record/5529750#.YVGxoLgzbb0)
+<span style="color:blue">[CFARS Site Suitability Initiative: An Open Source Approach to Evaluate the Performance of Remote Sensing Device (RSD) Turbulence Intensity Measurements & Accelerate Industry Adoption of RSDs for Turbine Suitability Assessment](https://zenodo.org/record/5529750#.YVGxoLgzbb0)</span>
 
 In this white paper, the results from the Consortium for Advancing Remote Sensing's (CFARS) Site Suitability Subgroup’s first benchmarking analysis of unadjusted RSD to cup anemometer turbulence intensity (TI) and reference cup-to-redundant cup measurement differences are presented. Eight organizations participated in the benchmarking activity, contributing a total of 35 datasets.
 
@@ -20,7 +20,7 @@ _Alexandra St. Pé (RWE Renewables), Ellie Weyer (UL), Alexandra E. Arntsen (NRG
 
 
 ## Presentations
-[Survey of Correction Techniques for Remote Sensing Devices in Complex Flow](https://zenodo.org/record/4302363#.YVGvDrgzbb0)
+<span style="color:blue">[Survey of Correction Techniques for Remote Sensing Devices in Complex Flow](https://zenodo.org/record/4302363#.YVGvDrgzbb0)</span>
 
 As part of its mission to reduce the uncertainty of preconstruction wind resource estimates, the Consortium for the Advancement for Remote Sensing (CFARS) is engaged in a survey of correction techniques for remote wind sensing devices in complex terrain.
 
@@ -29,7 +29,7 @@ This webinar presented and compared correction techniques from several suppliers
 _Andrew Black (Vaisala), Scott Wylie (ZXLidars), Paul Mazoyer (Leosphere)_
 
 ## Webinars
-[Power Performance Testing Using Ground Based Lidar](https://www.youtube.com/watch?v=E0lb8Sgkcaw)
+<span style="color:blue">[Power Performance Testing Using Ground Based Lidar](https://www.youtube.com/watch?v=E0lb8Sgkcaw)</span>
 
 As markets for wind energy become increasingly competitive, performance and testing is more important than ever.  However, with hub heights ever increasing, testing is becoming increasingly expensive.  The latest IEC testing standard allows for the use of lidar but continues to require on-site met towers. 
 
@@ -45,7 +45,7 @@ Hong Liu (Engie)_
 More information coming soon...
 
 ### *2019* 
-[Industry Stakehold Survey](C:\GitHub\cfars.github.io\proceedings\meeting-5\cfars_survey.pptx)
+[Wind Industry Stakeholder Survey](C:\GitHub\cfars.github.io\proceedings\meeting-5\cfars_survey.pptx)
 
 _Jeff Fine (RES), John Wang (Wood), Matthew Meyer (E.On)_
 
